@@ -1,0 +1,40 @@
+
+body {
+    background-color: rgb(22, 23, 23);
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', serif;
+    color:whitesmoke;
+}
+
+input {
+    width: 250px;
+    height: 50px;
+    border-radius: 111px;
+    padding: 20px;
+}
+
+label {
+    font-size: 35px;
+    font-weight: 500;
+    font-family: 'Times New Roman',serif;
+    border-radius: 10px;
+}
+.container {
+    width: 600px;
+    background-color: lightpink;
+    padding: 70px 40px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 50px;
+    font-size: 20px;
+}
+* {
+    padding: 15;
+    margin: 10;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
+}
